@@ -1,5 +1,9 @@
 # Laboratorio 1
 
+## Implementación de diagrama
+
+![lab1.clab.svg](lab1.clab.svg)
+
 ## Convección de nombres - /31 vs /30
 
 - https://www.rfc-editor.org/rfc/rfc3021
