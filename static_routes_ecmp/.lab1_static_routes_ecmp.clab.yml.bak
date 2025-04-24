@@ -12,19 +12,19 @@ topology:
 # Routers Nokia
     srl1:
       kind: nokia_srlinux
-      startup-config: configs_static_routes_ecmp/srl1.cfg
+      startup-config: configs/srl1.cfg
     srl2:
       kind: nokia_srlinux
-      startup-config: configs_static_routes_ecmp/srl2.cfg
+      startup-config: configs/srl2.cfg
     srl3:
       kind: nokia_srlinux
-      startup-config: configs_static_routes_ecmp/srl3.cfg
+      startup-config: configs/srl3.cfg
     srl4:
       kind: nokia_srlinux
-      startup-config: configs_static_routes_ecmp/srl4.cfg
+      startup-config: configs/srl4.cfg
     srl5:
       kind: nokia_srlinux
-      startup-config: configs_static_routes_ecmp/srl5.cfg
+      startup-config: configs/srl5.cfg
 
 # Máquinas Linux
     host1:
