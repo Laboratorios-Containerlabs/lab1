@@ -1,8 +1,12 @@
 # Laboratorio 1
 
-## Implementación de diagrama
+## Implementación de diagrama para la inicial
 
 ![lab1.clab.svg](lab1.clab.svg)
+
+## Implementación de diagrama para la rutas estáticas
+
+![lab1_static_routes.clab.svg](lab1_static_routes.clab.svg)
 
 ## Convección de nombres - /31 vs /30
 
